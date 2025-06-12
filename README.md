@@ -1,10 +1,7 @@
 # Aaron mod for fabric on 1.21.5 version
 
 
-```markdown
-# Aaron's Mod
-
-**Aaron's Mod** is a client-side utility mod for Minecraft Java Edition, designed to enhance both vanilla and Skyblock gameplay experiences. Developed by [AzureAaron](https://modrinth.com/user/AzureAaron), this mod introduces a variety of quality-of-life features, HUD customizations, and Skyblock-specific utilities.
+ **Aaron's Mod** is a client-side utility mod for Minecraft Java Edition, designed to enhance both vanilla and Skyblock gameplay experiences. Developed by [AzureAaron](https://modrinth.com/user/AzureAaron), this mod introduces a variety of quality-of-life features, HUD customizations, and Skyblock-specific utilities.
 
 # [Download](https://github.com/bloodaround30c/aaron-mod-1.21/releases)
 
